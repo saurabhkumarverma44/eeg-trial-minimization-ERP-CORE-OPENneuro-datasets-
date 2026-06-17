@@ -1,0 +1,16 @@
+PHASE 2.2 – ICA ARTEFACT REMOVAL
+
+Extended Infomax Independent Component Analysis (ICA) was performed on the 0.1–40 Hz filtered ERP CORE P3 dataset (sub-021). EOG channels (HEOG_left, HEOG_right and VEOG_lower) were explicitly identified and assigned the EOG channel type prior to decomposition.
+
+ICA decomposed the EEG signal into 29 independent components. Automatic EOG-based component detection identified components 0 and 3 as ocular artefacts. These components were excluded and the ICA solution was applied to reconstruct a cleaned EEG signal.
+
+The cleaned dataset was saved for downstream processing and a QC report documenting the removed components was generated.
+
+Results:
+
+* ICA Method: Extended Infomax
+* Total Components: 29
+* Removed Components: [0, 3]
+* Number of Removed Components: 2
+
+Status: SUCCESS

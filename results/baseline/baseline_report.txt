@@ -1,0 +1,5 @@
+PHASE 2.5 BASELINE CORRECTION
+
+Baseline Window: -0.2 to 0.0 sec
+Epoch Shape: (402, 33, 1025)
+Status: SUCCESS

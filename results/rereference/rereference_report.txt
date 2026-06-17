@@ -1,0 +1,15 @@
+PHASE 2.3 RE-REFERENCING
+========================================
+
+Dataset : ERP CORE
+Subject : sub-021
+Paradigm : P3
+
+Reference : Average Reference
+Montage : standard_1020
+
+Outputs:
+- rereferenced_raw.fif
+- montage_plot.png
+
+Status : SUCCESS

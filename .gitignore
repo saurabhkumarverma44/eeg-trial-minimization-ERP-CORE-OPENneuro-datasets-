@@ -1,0 +1,17 @@
+# DATASETS
+data/raw/
+data/derivatives/
+
+# MNE FILES
+*.fif
+
+# JUPYTER
+.ipynb_checkpoints/
+
+# TEMP FILES
+*.swp
+*.tmp
+
+# PYTHON CACHE
+__pycache__/
+*.pyc

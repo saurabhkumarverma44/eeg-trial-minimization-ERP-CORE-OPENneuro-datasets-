@@ -1,0 +1,18 @@
+Dataset : ERP CORE
+Subject : sub-021
+Paradigm : P3
+
+Filter Type : FIR
+Passband : 0.1 - 40 Hz
+
+Sampling Rate : 1024 Hz
+
+Filter Length : 33793 samples
+Filter Duration : 33.001 seconds
+
+Outputs:
+- psd_before_filter.png
+- psd_after_filter.png
+- filtered_raw.fif
+
+Status: SUCCESSS
