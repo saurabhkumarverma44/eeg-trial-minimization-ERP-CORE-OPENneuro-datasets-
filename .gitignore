@@ -15,3 +15,11 @@ data/derivatives/
 # PYTHON CACHE
 __pycache__/
 *.pyc
+# EVOKED INTERMEDIATE FILES
+results/evoked/*.fif
+
+# NOTEBOOK CHECKPOINTS
+results/evoked/.ipynb_checkpoints/
+
+# DEBUG FILES
+preprocessing/check_p3_events.py
