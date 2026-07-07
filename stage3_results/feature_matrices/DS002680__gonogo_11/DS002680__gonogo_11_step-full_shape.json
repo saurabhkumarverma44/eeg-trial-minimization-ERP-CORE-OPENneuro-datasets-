@@ -1,0 +1,36 @@
+{
+  "paradigm": "DS002680__gonogo_11",
+  "step": "full",
+  "n_trials_pooled": 2564,
+  "n_features": 2046,
+  "n_subjects_contributing": 12,
+  "feature_block_boundaries": {
+    "band_power": [
+      0,
+      155
+    ],
+    "plv_alpha": [
+      155,
+      620
+    ],
+    "plv_beta": [
+      620,
+      1085
+    ],
+    "wpli_alpha": [
+      1085,
+      1550
+    ],
+    "wpli_beta": [
+      1550,
+      2015
+    ],
+    "entropy": [
+      2015,
+      2046
+    ],
+    "_total_features": 2046
+  },
+  "nan_count": 0,
+  "inf_count": 0
+}

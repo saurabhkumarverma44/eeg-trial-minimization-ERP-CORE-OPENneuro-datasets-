@@ -1,0 +1,51 @@
+{
+  "dataset": "ERP_CORE",
+  "subject": "sub-033",
+  "task": "N170",
+  "file_id": "141-epo",
+  "n_total_epochs": 1,
+  "steps": {
+    "5": [
+      0
+    ],
+    "10": [
+      0
+    ],
+    "20": [
+      0
+    ],
+    "30": [
+      0
+    ],
+    "50": [
+      0
+    ],
+    "75": [
+      0
+    ],
+    "100": [
+      0
+    ],
+    "150": [
+      0
+    ],
+    "200": [
+      0
+    ],
+    "full": [
+      0
+    ]
+  },
+  "step_integrity": {
+    "5": false,
+    "10": false,
+    "20": false,
+    "30": false,
+    "50": false,
+    "75": false,
+    "100": false,
+    "150": false,
+    "200": false,
+    "full": true
+  }
+}

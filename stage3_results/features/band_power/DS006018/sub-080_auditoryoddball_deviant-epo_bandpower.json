@@ -1,0 +1,70 @@
+{
+  "dataset": "DS006018",
+  "subject": "sub-080",
+  "task": "auditoryoddball",
+  "n_epochs": 59,
+  "n_channels": 26,
+  "channels": [
+    "Fp1",
+    "Fz",
+    "F3",
+    "F7",
+    "FC5",
+    "FC1",
+    "C3",
+    "T7",
+    "CP5",
+    "CP1",
+    "Pz",
+    "P3",
+    "P7",
+    "O1",
+    "Oz",
+    "O2",
+    "P4",
+    "P8",
+    "CP6",
+    "CP2",
+    "C4",
+    "FC6",
+    "FC2",
+    "F4",
+    "F8",
+    "Fp2"
+  ],
+  "bands": [
+    "delta",
+    "theta",
+    "alpha",
+    "beta",
+    "gamma"
+  ],
+  "band_ranges_hz": {
+    "delta": [
+      1.0,
+      4.0
+    ],
+    "theta": [
+      4.0,
+      8.0
+    ],
+    "alpha": [
+      8.0,
+      12.0
+    ],
+    "beta": [
+      13.0,
+      30.0
+    ],
+    "gamma": [
+      30.0,
+      40.0
+    ]
+  },
+  "total_range_hz": [
+    1.0,
+    40.0
+  ],
+  "zscored": true,
+  "nan_inf_clean": true
+}

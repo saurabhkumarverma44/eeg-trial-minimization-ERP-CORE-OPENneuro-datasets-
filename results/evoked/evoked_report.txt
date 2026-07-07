@@ -1,0 +1,10 @@
+PHASE 2.7 ERP GENERATION
+
+Critical Trials : 39
+Standard Trials : 358
+
+Outputs Generated:
+- critical_erp.png
+- standard_erp.png
+- difference_wave.png
+- p300_metrics.csv

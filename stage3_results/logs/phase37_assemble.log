@@ -1,0 +1,244 @@
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_1_step-5: matrix shape=(185, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_1_step-10: matrix shape=(350, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_1_step-20: matrix shape=(580, 2046) subjects=9 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_1_step-30: matrix shape=(750, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_1_step-50: matrix shape=(400, 2046) subjects=7 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_1_step-75: matrix shape=(525, 2046) subjects=7 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_1_step-100: matrix shape=(500, 2046) subjects=5 nan=0 inf=0
+2026-06-29 21:56:53 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_1 step=150: no usable rows assembled
+2026-06-29 21:56:53 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_1 step=200: no usable rows assembled
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_1_step-full: matrix shape=(1840, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_10_step-5: matrix shape=(235, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_10_step-10: matrix shape=(450, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_10_step-20: matrix shape=(840, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_10_step-30: matrix shape=(1140, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_10_step-50: matrix shape=(550, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:53 [INFO] phase37_assemble: [OK] DS002680__gonogo_10_step-75: matrix shape=(675, 2046) subjects=9 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_10_step-100: matrix shape=(800, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:54 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_10 step=150: no usable rows assembled
+2026-06-29 21:56:54 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_10 step=200: no usable rows assembled
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_10_step-full: matrix shape=(2602, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_11_step-5: matrix shape=(230, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_11_step-10: matrix shape=(460, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_11_step-20: matrix shape=(860, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_11_step-30: matrix shape=(1140, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_11_step-50: matrix shape=(650, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_11_step-75: matrix shape=(750, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_11_step-100: matrix shape=(800, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:54 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_11 step=150: no usable rows assembled
+2026-06-29 21:56:54 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_11 step=200: no usable rows assembled
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_11_step-full: matrix shape=(2564, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_12_step-5: matrix shape=(210, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_12_step-10: matrix shape=(420, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_12_step-20: matrix shape=(720, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_12_step-30: matrix shape=(960, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_12_step-50: matrix shape=(550, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_12_step-75: matrix shape=(600, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_12_step-100: matrix shape=(700, 2046) subjects=7 nan=0 inf=0
+2026-06-29 21:56:54 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_12 step=150: no usable rows assembled
+2026-06-29 21:56:54 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_12 step=200: no usable rows assembled
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_12_step-full: matrix shape=(2304, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_13_step-5: matrix shape=(215, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_13_step-10: matrix shape=(410, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_13_step-20: matrix shape=(660, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_13_step-30: matrix shape=(900, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:54 [INFO] phase37_assemble: [OK] DS002680__gonogo_13_step-50: matrix shape=(350, 2046) subjects=7 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_13_step-75: matrix shape=(525, 2046) subjects=7 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_13_step-100: matrix shape=(600, 2046) subjects=6 nan=0 inf=0
+2026-06-29 21:56:55 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_13 step=150: no usable rows assembled
+2026-06-29 21:56:55 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_13 step=200: no usable rows assembled
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_13_step-full: matrix shape=(2012, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_2_step-5: matrix shape=(210, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_2_step-10: matrix shape=(400, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_2_step-20: matrix shape=(680, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_2_step-30: matrix shape=(930, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_2_step-50: matrix shape=(450, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_2_step-75: matrix shape=(600, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_2_step-100: matrix shape=(600, 2046) subjects=6 nan=0 inf=0
+2026-06-29 21:56:55 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_2 step=150: no usable rows assembled
+2026-06-29 21:56:55 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_2 step=200: no usable rows assembled
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_2_step-full: matrix shape=(2048, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_3_step-5: matrix shape=(230, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_3_step-10: matrix shape=(450, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_3_step-20: matrix shape=(840, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_3_step-30: matrix shape=(1080, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_3_step-50: matrix shape=(600, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_3_step-75: matrix shape=(750, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_3_step-100: matrix shape=(700, 2046) subjects=7 nan=0 inf=0
+2026-06-29 21:56:55 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_3 step=150: no usable rows assembled
+2026-06-29 21:56:55 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_3 step=200: no usable rows assembled
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_3_step-full: matrix shape=(2574, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_4_step-5: matrix shape=(220, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_4_step-10: matrix shape=(420, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_4_step-20: matrix shape=(780, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:55 [INFO] phase37_assemble: [OK] DS002680__gonogo_4_step-30: matrix shape=(960, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_4_step-50: matrix shape=(650, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_4_step-75: matrix shape=(600, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_4_step-100: matrix shape=(700, 2046) subjects=7 nan=0 inf=0
+2026-06-29 21:56:56 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_4 step=150: no usable rows assembled
+2026-06-29 21:56:56 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_4 step=200: no usable rows assembled
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_4_step-full: matrix shape=(2230, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_5_step-5: matrix shape=(240, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_5_step-10: matrix shape=(470, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_5_step-20: matrix shape=(840, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_5_step-30: matrix shape=(1140, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_5_step-50: matrix shape=(550, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_5_step-75: matrix shape=(675, 2046) subjects=9 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_5_step-100: matrix shape=(800, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:56 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_5 step=150: no usable rows assembled
+2026-06-29 21:56:56 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_5 step=200: no usable rows assembled
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_5_step-full: matrix shape=(2536, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_6_step-5: matrix shape=(240, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_6_step-10: matrix shape=(480, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_6_step-20: matrix shape=(900, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_6_step-30: matrix shape=(1200, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_6_step-50: matrix shape=(800, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_6_step-75: matrix shape=(825, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_6_step-100: matrix shape=(900, 2046) subjects=9 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_6_step-150: matrix shape=(150, 2046) subjects=1 nan=0 inf=0
+2026-06-29 21:56:56 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_6 step=200: no usable rows assembled
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_6_step-full: matrix shape=(2698, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:56 [INFO] phase37_assemble: [OK] DS002680__gonogo_7_step-5: matrix shape=(235, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_7_step-10: matrix shape=(460, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_7_step-20: matrix shape=(820, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_7_step-30: matrix shape=(1080, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_7_step-50: matrix shape=(600, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_7_step-75: matrix shape=(600, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_7_step-100: matrix shape=(800, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:57 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_7 step=150: no usable rows assembled
+2026-06-29 21:56:57 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_7 step=200: no usable rows assembled
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_7_step-full: matrix shape=(2404, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_8_step-5: matrix shape=(235, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_8_step-10: matrix shape=(460, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_8_step-20: matrix shape=(880, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_8_step-30: matrix shape=(1170, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_8_step-50: matrix shape=(700, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_8_step-75: matrix shape=(825, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_8_step-100: matrix shape=(900, 2046) subjects=9 nan=0 inf=0
+2026-06-29 21:56:57 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_8 step=150: no usable rows assembled
+2026-06-29 21:56:57 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_8 step=200: no usable rows assembled
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_8_step-full: matrix shape=(2792, 2046) subjects=12 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_9_step-5: matrix shape=(220, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_9_step-10: matrix shape=(430, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_9_step-20: matrix shape=(780, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_9_step-30: matrix shape=(1080, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_9_step-50: matrix shape=(750, 2046) subjects=10 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_9_step-75: matrix shape=(675, 2046) subjects=9 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_9_step-100: matrix shape=(800, 2046) subjects=8 nan=0 inf=0
+2026-06-29 21:56:57 [INFO] phase37_assemble: [OK] DS002680__gonogo_9_step-150: matrix shape=(450, 2046) subjects=3 nan=0 inf=0
+2026-06-29 21:56:57 [WARNING] phase37_assemble:   [SKIP] DS002680__gonogo_9 step=200: no usable rows assembled
+2026-06-29 21:56:58 [INFO] phase37_assemble: [OK] DS002680__gonogo_9_step-full: matrix shape=(2456, 2046) subjects=11 nan=0 inf=0
+2026-06-29 21:56:58 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-5: matrix shape=(1695, 1456) subjects=113 nan=0 inf=0
+2026-06-29 21:56:58 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-10: matrix shape=(3390, 1456) subjects=113 nan=0 inf=0
+2026-06-29 21:56:59 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-20: matrix shape=(6720, 1456) subjects=113 nan=0 inf=0
+2026-06-29 21:56:59 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-30: matrix shape=(9990, 1456) subjects=113 nan=0 inf=0
+2026-06-29 21:57:00 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-50: matrix shape=(15350, 1456) subjects=113 nan=0 inf=0
+2026-06-29 21:57:00 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-75: matrix shape=(16800, 1456) subjects=113 nan=0 inf=0
+2026-06-29 21:57:01 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-100: matrix shape=(21800, 1456) subjects=110 nan=0 inf=0
+2026-06-29 21:57:02 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-150: matrix shape=(30300, 1456) subjects=105 nan=0 inf=0
+2026-06-29 21:57:02 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-200: matrix shape=(34600, 1456) subjects=96 nan=0 inf=0
+2026-06-29 21:57:04 [INFO] phase37_assemble: [OK] DS006018__auditoryoddball_step-full: matrix shape=(60006, 1456) subjects=113 nan=0 inf=0
+2026-06-29 21:57:04 [INFO] phase37_assemble: [OK] DS006018__flanker_step-5: matrix shape=(350, 1456) subjects=70 nan=0 inf=0
+2026-06-29 21:57:04 [INFO] phase37_assemble: [OK] DS006018__flanker_step-10: matrix shape=(700, 1456) subjects=70 nan=0 inf=0
+2026-06-29 21:57:04 [INFO] phase37_assemble: [OK] DS006018__flanker_step-20: matrix shape=(1400, 1456) subjects=70 nan=0 inf=0
+2026-06-29 21:57:04 [INFO] phase37_assemble: [OK] DS006018__flanker_step-30: matrix shape=(2100, 1456) subjects=70 nan=0 inf=0
+2026-06-29 21:57:05 [INFO] phase37_assemble: [OK] DS006018__flanker_step-50: matrix shape=(3500, 1456) subjects=70 nan=0 inf=0
+2026-06-29 21:57:05 [INFO] phase37_assemble: [OK] DS006018__flanker_step-75: matrix shape=(5250, 1456) subjects=70 nan=0 inf=0
+2026-06-29 21:57:05 [INFO] phase37_assemble: [OK] DS006018__flanker_step-100: matrix shape=(6800, 1456) subjects=68 nan=0 inf=0
+2026-06-29 21:57:05 [INFO] phase37_assemble: [OK] DS006018__flanker_step-150: matrix shape=(9900, 1456) subjects=66 nan=0 inf=0
+2026-06-29 21:57:06 [INFO] phase37_assemble: [OK] DS006018__flanker_step-200: matrix shape=(12400, 1456) subjects=62 nan=0 inf=0
+2026-06-29 21:57:06 [INFO] phase37_assemble: [OK] DS006018__flanker_step-full: matrix shape=(38640, 1456) subjects=70 nan=0 inf=0
+2026-06-29 21:57:06 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-5: matrix shape=(475, 1456) subjects=95 nan=0 inf=0
+2026-06-29 21:57:07 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-10: matrix shape=(950, 1456) subjects=95 nan=0 inf=0
+2026-06-29 21:57:07 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-20: matrix shape=(1900, 1456) subjects=95 nan=0 inf=0
+2026-06-29 21:57:07 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-30: matrix shape=(2820, 1456) subjects=94 nan=0 inf=0
+2026-06-29 21:57:07 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-50: matrix shape=(4650, 1456) subjects=93 nan=0 inf=0
+2026-06-29 21:57:07 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-75: matrix shape=(6600, 1456) subjects=88 nan=0 inf=0
+2026-06-29 21:57:07 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-100: matrix shape=(8500, 1456) subjects=85 nan=0 inf=0
+2026-06-29 21:57:08 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-150: matrix shape=(11550, 1456) subjects=77 nan=0 inf=0
+2026-06-29 21:57:08 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-200: matrix shape=(14400, 1456) subjects=72 nan=0 inf=0
+2026-06-29 21:57:09 [INFO] phase37_assemble: [OK] DS006018__visualoddball_step-full: matrix shape=(27594, 1456) subjects=95 nan=0 inf=0
+2026-06-29 21:57:09 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-5: matrix shape=(345, 1456) subjects=69 nan=0 inf=0
+2026-06-29 21:57:09 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-10: matrix shape=(690, 1456) subjects=69 nan=0 inf=0
+2026-06-29 21:57:09 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-20: matrix shape=(1380, 1456) subjects=69 nan=0 inf=0
+2026-06-29 21:57:09 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-30: matrix shape=(2070, 1456) subjects=69 nan=0 inf=0
+2026-06-29 21:57:09 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-50: matrix shape=(3450, 1456) subjects=69 nan=0 inf=0
+2026-06-29 21:57:10 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-75: matrix shape=(5175, 1456) subjects=69 nan=0 inf=0
+2026-06-29 21:57:10 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-100: matrix shape=(6900, 1456) subjects=69 nan=0 inf=0
+2026-06-29 21:57:10 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-150: matrix shape=(10200, 1456) subjects=68 nan=0 inf=0
+2026-06-29 21:57:10 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-200: matrix shape=(13200, 1456) subjects=66 nan=0 inf=0
+2026-06-29 21:57:11 [INFO] phase37_assemble: [OK] DS006018__visualsearch_step-full: matrix shape=(35772, 1456) subjects=69 nan=0 inf=0
+2026-06-29 21:57:11 [INFO] phase37_assemble: [OK] ERP_CORE__ERN_step-5: matrix shape=(1580, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:12 [INFO] phase37_assemble: [OK] ERP_CORE__ERN_step-10: matrix shape=(2750, 1920) subjects=33 nan=0 inf=0
+2026-06-29 21:57:12 [INFO] phase37_assemble: [OK] ERP_CORE__ERN_step-20: matrix shape=(4860, 1920) subjects=31 nan=0 inf=0
+2026-06-29 21:57:12 [INFO] phase37_assemble: [OK] ERP_CORE__ERN_step-30: matrix shape=(6540, 1920) subjects=30 nan=0 inf=0
+2026-06-29 21:57:13 [INFO] phase37_assemble: [OK] ERP_CORE__ERN_step-50: matrix shape=(7500, 1920) subjects=21 nan=0 inf=0
+2026-06-29 21:57:13 [INFO] phase37_assemble: [OK] ERP_CORE__ERN_step-75: matrix shape=(7950, 1920) subjects=16 nan=0 inf=0
+2026-06-29 21:57:13 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__ERN step=100: no usable rows assembled
+2026-06-29 21:57:13 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__ERN step=150: no usable rows assembled
+2026-06-29 21:57:13 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__ERN step=200: no usable rows assembled
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__ERN_step-full: matrix shape=(16291, 1920) subjects=37 nan=0 inf=0
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__LRP_step-5: matrix shape=(455, 1920) subjects=35 nan=0 inf=0
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__LRP_step-10: matrix shape=(790, 1920) subjects=32 nan=0 inf=0
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__LRP_step-20: matrix shape=(1480, 1920) subjects=30 nan=0 inf=0
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__LRP_step-30: matrix shape=(1980, 1920) subjects=27 nan=0 inf=0
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__LRP_step-50: matrix shape=(2400, 1920) subjects=18 nan=0 inf=0
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__LRP_step-75: matrix shape=(2700, 1920) subjects=12 nan=0 inf=0
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__LRP_step-100: matrix shape=(600, 1920) subjects=3 nan=0 inf=0
+2026-06-29 21:57:14 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__LRP step=150: no usable rows assembled
+2026-06-29 21:57:14 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__LRP step=200: no usable rows assembled
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__LRP_step-full: matrix shape=(5008, 1920) subjects=35 nan=0 inf=0
+2026-06-29 21:57:14 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-5: matrix shape=(565, 1920) subjects=40 nan=0 inf=0
+2026-06-29 21:57:15 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-10: matrix shape=(1030, 1920) subjects=39 nan=0 inf=0
+2026-06-29 21:57:15 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-20: matrix shape=(1540, 1920) subjects=39 nan=0 inf=0
+2026-06-29 21:57:15 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-30: matrix shape=(2310, 1920) subjects=39 nan=0 inf=0
+2026-06-29 21:57:15 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-50: matrix shape=(3800, 1920) subjects=39 nan=0 inf=0
+2026-06-29 21:57:15 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-75: matrix shape=(5400, 1920) subjects=38 nan=0 inf=0
+2026-06-29 21:57:16 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-100: matrix shape=(7000, 1920) subjects=38 nan=0 inf=0
+2026-06-29 21:57:16 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-150: matrix shape=(8250, 1920) subjects=37 nan=0 inf=0
+2026-06-29 21:57:16 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-200: matrix shape=(7400, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:17 [INFO] phase37_assemble: [OK] ERP_CORE__MMN_step-full: matrix shape=(26684, 1920) subjects=40 nan=0 inf=0
+2026-06-29 21:57:17 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-5: matrix shape=(305, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:17 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-10: matrix shape=(500, 1920) subjects=35 nan=0 inf=0
+2026-06-29 21:57:17 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-20: matrix shape=(840, 1920) subjects=34 nan=0 inf=0
+2026-06-29 21:57:18 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-30: matrix shape=(1080, 1920) subjects=33 nan=0 inf=0
+2026-06-29 21:57:18 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-50: matrix shape=(1650, 1920) subjects=32 nan=0 inf=0
+2026-06-29 21:57:18 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-75: matrix shape=(1950, 1920) subjects=26 nan=0 inf=0
+2026-06-29 21:57:18 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-100: matrix shape=(2100, 1920) subjects=21 nan=0 inf=0
+2026-06-29 21:57:18 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-150: matrix shape=(3000, 1920) subjects=20 nan=0 inf=0
+2026-06-29 21:57:19 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-200: matrix shape=(2600, 1920) subjects=13 nan=0 inf=0
+2026-06-29 21:57:21 [INFO] phase37_assemble: [OK] ERP_CORE__N170_step-full: matrix shape=(13189, 1920) subjects=38 nan=0 inf=0
+2026-06-29 21:57:22 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-5: matrix shape=(1795, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:22 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-10: matrix shape=(3540, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:23 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-20: matrix shape=(6480, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:23 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-30: matrix shape=(7140, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:23 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-50: matrix shape=(1850, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:23 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-75: matrix shape=(2625, 1920) subjects=35 nan=0 inf=0
+2026-06-29 21:57:23 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-100: matrix shape=(3200, 1920) subjects=32 nan=0 inf=0
+2026-06-29 21:57:23 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-150: matrix shape=(4200, 1920) subjects=28 nan=0 inf=0
+2026-06-29 21:57:23 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-200: matrix shape=(3400, 1920) subjects=17 nan=0 inf=0
+2026-06-29 21:57:24 [INFO] phase37_assemble: [OK] ERP_CORE__N2pc_step-full: matrix shape=(17272, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:24 [INFO] phase37_assemble: [OK] ERP_CORE__N400_step-5: matrix shape=(1585, 1920) subjects=35 nan=0 inf=0
+2026-06-29 21:57:25 [INFO] phase37_assemble: [OK] ERP_CORE__N400_step-10: matrix shape=(2680, 1920) subjects=34 nan=0 inf=0
+2026-06-29 21:57:25 [INFO] phase37_assemble: [OK] ERP_CORE__N400_step-20: matrix shape=(3980, 1920) subjects=31 nan=0 inf=0
+2026-06-29 21:57:25 [INFO] phase37_assemble: [OK] ERP_CORE__N400_step-30: matrix shape=(1950, 1920) subjects=28 nan=0 inf=0
+2026-06-29 21:57:25 [INFO] phase37_assemble: [OK] ERP_CORE__N400_step-50: matrix shape=(1050, 1920) subjects=21 nan=0 inf=0
+2026-06-29 21:57:25 [INFO] phase37_assemble: [OK] ERP_CORE__N400_step-75: matrix shape=(1275, 1920) subjects=17 nan=0 inf=0
+2026-06-29 21:57:25 [INFO] phase37_assemble: [OK] ERP_CORE__N400_step-100: matrix shape=(1000, 1920) subjects=10 nan=0 inf=0
+2026-06-29 21:57:25 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__N400 step=150: no usable rows assembled
+2026-06-29 21:57:25 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__N400 step=200: no usable rows assembled
+2026-06-29 21:57:25 [INFO] phase37_assemble: [OK] ERP_CORE__N400_step-full: matrix shape=(8239, 1920) subjects=35 nan=0 inf=0
+2026-06-29 21:57:26 [INFO] phase37_assemble: [OK] ERP_CORE__P3_step-5: matrix shape=(480, 1920) subjects=35 nan=0 inf=0
+2026-06-29 21:57:26 [INFO] phase37_assemble: [OK] ERP_CORE__P3_step-10: matrix shape=(820, 1920) subjects=31 nan=0 inf=0
+2026-06-29 21:57:26 [INFO] phase37_assemble: [OK] ERP_CORE__P3_step-20: matrix shape=(1180, 1920) subjects=29 nan=0 inf=0
+2026-06-29 21:57:26 [INFO] phase37_assemble: [OK] ERP_CORE__P3_step-30: matrix shape=(1530, 1920) subjects=27 nan=0 inf=0
+2026-06-29 21:57:26 [INFO] phase37_assemble: [OK] ERP_CORE__P3_step-50: matrix shape=(1800, 1920) subjects=19 nan=0 inf=0
+2026-06-29 21:57:26 [INFO] phase37_assemble: [OK] ERP_CORE__P3_step-75: matrix shape=(750, 1920) subjects=10 nan=0 inf=0
+2026-06-29 21:57:26 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__P3 step=100: no usable rows assembled
+2026-06-29 21:57:26 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__P3 step=150: no usable rows assembled
+2026-06-29 21:57:26 [WARNING] phase37_assemble:   [SKIP] ERP_CORE__P3 step=200: no usable rows assembled
+2026-06-29 21:57:26 [INFO] phase37_assemble: [OK] ERP_CORE__P3_step-full: matrix shape=(3656, 1920) subjects=36 nan=0 inf=0
+2026-06-29 21:57:26 [INFO] phase37_assemble: ============================================================
+2026-06-29 21:57:26 [INFO] phase37_assemble: Phase 3.7 feature assembly complete for 24 paradigms.
+2026-06-29 21:57:26 [INFO] phase37_assemble: Output: /lp-dev/23BRS1328/erp_trial_min/stage3_results/feature_matrices
+2026-06-29 21:57:26 [INFO] phase37_assemble: ============================================================

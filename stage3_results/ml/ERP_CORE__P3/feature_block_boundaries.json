@@ -1,0 +1,27 @@
+{
+  "band_power": [
+    0,
+    150
+  ],
+  "plv_alpha": [
+    150,
+    585
+  ],
+  "plv_beta": [
+    585,
+    1020
+  ],
+  "wpli_alpha": [
+    1020,
+    1455
+  ],
+  "wpli_beta": [
+    1455,
+    1890
+  ],
+  "entropy": [
+    1890,
+    1920
+  ],
+  "_total_features": 1920
+}
