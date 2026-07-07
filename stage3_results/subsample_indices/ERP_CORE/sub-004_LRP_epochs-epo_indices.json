@@ -1,0 +1,31 @@
+{
+  "dataset": "ERP_CORE",
+  "subject": "sub-004",
+  "task": "LRP",
+  "file_id": "epochs-epo",
+  "n_total_epochs": 0,
+  "steps": {
+    "5": [],
+    "10": [],
+    "20": [],
+    "30": [],
+    "50": [],
+    "75": [],
+    "100": [],
+    "150": [],
+    "200": [],
+    "full": []
+  },
+  "step_integrity": {
+    "5": false,
+    "10": false,
+    "20": false,
+    "30": false,
+    "50": false,
+    "75": false,
+    "100": false,
+    "150": false,
+    "200": false,
+    "full": true
+  }
+}

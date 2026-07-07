@@ -1,0 +1,75 @@
+{
+  "dataset": "DS002680",
+  "subject": "sub-006",
+  "task": "gonogo_6",
+  "n_epochs": 34,
+  "n_channels": 31,
+  "channels": [
+    "FP1",
+    "FP2",
+    "F3",
+    "F4",
+    "C3",
+    "C4",
+    "P3",
+    "P4",
+    "O1",
+    "O2",
+    "F7",
+    "F8",
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "FZ",
+    "PZ",
+    "T5'",
+    "T6'",
+    "O1'",
+    "O2'",
+    "P3\"",
+    "P4\"",
+    "PZ\"",
+    "OZ",
+    "I",
+    "CB1\"",
+    "CB2\"",
+    "CB1",
+    "CB2"
+  ],
+  "bands": [
+    "delta",
+    "theta",
+    "alpha",
+    "beta",
+    "gamma"
+  ],
+  "band_ranges_hz": {
+    "delta": [
+      1.0,
+      4.0
+    ],
+    "theta": [
+      4.0,
+      8.0
+    ],
+    "alpha": [
+      8.0,
+      12.0
+    ],
+    "beta": [
+      13.0,
+      30.0
+    ],
+    "gamma": [
+      30.0,
+      40.0
+    ]
+  },
+  "total_range_hz": [
+    1.0,
+    40.0
+  ],
+  "zscored": true,
+  "nan_inf_clean": true
+}

@@ -23,3 +23,23 @@ results/evoked/.ipynb_checkpoints/
 
 # DEBUG FILES
 preprocessing/check_p3_events.py
+
+# ==============================
+# LARGE EEG GENERATED OUTPUTS
+# ==============================
+
+*.fif
+*.fif.gz
+*.npy
+*.npz
+
+# Large feature matrices
+stage3_results/**/*.npy
+stage3_results/**/*.npz
+
+# Large preprocessing outputs
+results_batch/**/*.fif
+
+# Cache
+__pycache__/
+*.pyc
