@@ -1,6 +1,6 @@
 # Trial minimisation in EEG: code and results
 
-Code and results for "Trial Minimisation in EEG: Subject Independent Learning Curves for Six ERP Components under a Matched Protocol" (Verma, Nair, Srivastava, Shridevi S, Gunasekaran), submitted to Brain Informatics.
+Code and results for "Trial Minimisation in EEG: Subject Independent Learning Curves for Six ERP Components under a Matched Protocol" (Saurabh Kumar Verma, Aditi Vinodkumar Nair, Chirag Srivastava, Shridevi S and Harish Gunasekaran), submitted to Brain Informatics.
 
 The study asks how many pooled training trials from other subjects a model needs before it classifies an unseen subject above chance. Five models (random forest, XGBoost, a graph attention network, a 1D CNN and EEGNet) are compared on six ERP CORE components (N400, ERN, N170, P3, N2pc, MMN) under one leave one subject out protocol.
 
@@ -48,3 +48,8 @@ results/
 - NFS is exploratory and failed its cross component null test. It is not a measure of fidelity to a component.
 - A positive control decoder, class weighted deep networks and an N400 stimulus property check were not completed for the reported results.
 - Main experiments ran on a GPU; the NFS reruns and later analyses ran on a laptop CPU.
+
+
+## Authors
+Saurabh Kumar Verma, Aditi Vinodkumar Nair, Chirag Srivastava, Shridevi S (corresponding author, shridevi.s@vit.ac.in) and Harish Gunasekaran.
+Centre for Neuroinformatics, Vellore Institute of Technology, Chennai, India. H. Gunasekaran is also at Specs SAS (BCI), Snap Inc., Paris, France.
