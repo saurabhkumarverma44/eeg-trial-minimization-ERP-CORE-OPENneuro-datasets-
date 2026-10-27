@@ -1,0 +1,7 @@
+PHASE 2.6 EPOCH REJECTION
+
+Total Epochs: 402
+Clean Epochs: 397
+Rejected Epochs: 5
+Rejection Rate: 1.24%
+Flag (>30%): NO

@@ -1,0 +1,4 @@
+PHASE 2.4 EPOCH SEGMENTATION
+
+Epoch Shape : (402, 33, 1025)
+Event Count : 402

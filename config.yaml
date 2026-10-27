@@ -1,0 +1,32 @@
+project:
+  name: eeg_trial_minimization
+  random_seed: 42
+
+paths:
+  data_raw: data/raw
+  data_derivatives: data/derivatives
+  audit: data/audit
+  benchmarks: data/benchmarks
+
+  results: results
+  figures: results/figures
+
+preprocessing:
+  l_freq: 0.1
+  h_freq: 40.0
+
+  epoch:
+    tmin: -0.2
+    tmax: 0.8
+    baseline: [-0.2, 0.0]
+    reject_uv: 100
+
+datasets:
+  erp_core:
+    subjects: 40
+
+  ds006018:
+    subjects: 127
+
+  ds002680:
+    subjects: 14

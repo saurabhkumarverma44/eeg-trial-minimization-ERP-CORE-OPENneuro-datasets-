@@ -1,0 +1,4 @@
+Dataset,Name,BIDSVersion,Subjects,Channels,SamplingRate
+ERP_CORE,ERP CORE N400,v1.4.0,40,33,1024.0
+ds006018,Cognitive Electrophysiology in Socioeconomic Context in Adulthood: An EEG dataset,1.9.0,127,31,500.0
+ds002680,Go-nogo categorization and detection task,v1.2.1,14,31,1000.0

@@ -1,0 +1,13 @@
+PHASE 2.2 ICA ARTEFACT REMOVAL
+========================================
+
+Dataset : ERP CORE
+Subject : sub-021
+Paradigm : P3
+
+ICA Method : Extended Infomax
+ICA Components : 29
+Removed ICs : 2
+Removed Components : [0, 3]
+
+Status : SUCCESS
