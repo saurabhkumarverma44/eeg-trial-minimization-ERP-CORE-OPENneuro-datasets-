@@ -1,0 +1,5 @@
+paradigm,model,step,n_folds,n_valid,n_undefined,mean_acc,mean_bal_acc,mean_auc
+ERP_CORE_MMN,eegnet,20,40,40,0,0.7271,0.5032,0.5232
+ERP_CORE_MMN,eegnet,50,40,40,0,0.7778,0.5027,0.5200
+ERP_CORE_MMN,eegnet,100,40,40,0,0.7848,0.4997,0.5117
+ERP_CORE_MMN,eegnet,200,40,40,0,0.7950,0.5025,0.5164
