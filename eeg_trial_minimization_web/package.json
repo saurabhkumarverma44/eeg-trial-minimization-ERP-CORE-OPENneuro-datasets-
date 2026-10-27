@@ -1,0 +1,11 @@
+{
+  "name": "eeg-trial-minimization-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EEG Trial Minimisation Research Platform with Q.Neuro H100 BLE Cap Support",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  }
+}

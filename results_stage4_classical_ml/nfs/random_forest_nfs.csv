@@ -1,0 +1,212 @@
+dataset_task,model,step,nfs,ci_low,ci_high,note
+DS002680__gonogo_1,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,5,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,random_forest,full,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,random_forest,5,0.2255399618455763,-0.1793146373445705,0.5768091813316276,
+ERP_CORE__ERN,random_forest,10,0.4358690593275142,-0.2373070147281492,0.7832361252549159,
+ERP_CORE__ERN,random_forest,20,0.2421788970703988,-0.1434441152674668,0.5787509117143399,
+ERP_CORE__ERN,random_forest,30,0.3639195167582578,-0.0369814057042361,0.7041377852263622,
+ERP_CORE__ERN,random_forest,50,0.2666071303728364,-0.1038481650046332,0.5868160137295566,
+ERP_CORE__ERN,random_forest,75,0.2640356157454508,-0.1167351500424434,0.6052444894417774,
+ERP_CORE__ERN,random_forest,100,0.2417280193425801,-0.1528337290816818,0.5817731052870416,
+ERP_CORE__ERN,random_forest,150,0.2521303114201909,-0.1249988836897245,0.5813555639051559,
+ERP_CORE__ERN,random_forest,200,0.2460125073306457,-0.1612004217534008,0.5799940776259765,
+ERP_CORE__ERN,random_forest,full,0.1416919708367445,-0.0876023693997561,0.4108022743601381,
+ERP_CORE__MMN,random_forest,5,-0.145419783402092,-0.4553414724468806,0.1335612571210879,
+ERP_CORE__MMN,random_forest,10,0.11263739387902,-0.289371119528015,0.3245298129449029,
+ERP_CORE__MMN,random_forest,20,-0.1229214482099192,-0.4500770834600626,0.1923848473199541,
+ERP_CORE__MMN,random_forest,30,-0.339439144975024,-0.5501228256725844,-0.1691334177805465,
+ERP_CORE__MMN,random_forest,50,-0.2178850734293556,-0.5167221948070451,0.0431814595556185,
+ERP_CORE__MMN,random_forest,75,-0.1749735718924038,-0.5017003438924765,0.0725975869844072,
+ERP_CORE__MMN,random_forest,100,-0.1054701893286469,-0.44441493881467,0.1967697546626131,
+ERP_CORE__MMN,random_forest,150,-0.1720802480735678,-0.4533678321431783,0.0564446333002857,
+ERP_CORE__MMN,random_forest,200,-0.1958159911179633,-0.4660964922824839,0.0306781129108592,
+ERP_CORE__MMN,random_forest,full,-0.1632342971684476,-0.3965000365451799,0.0961919828011288,
+ERP_CORE__N170,random_forest,full,-0.2296764207678207,-0.5451466219824176,0.1137557848999642,
+ERP_CORE__N2pc,random_forest,5,0.2031495865155806,-0.1975088933824857,0.5857174201026765,
+ERP_CORE__N2pc,random_forest,10,-0.0109303499003353,-0.455561222987312,0.470734782230205,
+ERP_CORE__N2pc,random_forest,20,-0.1848629729410949,-0.4224414802125286,0.1737570178084139,
+ERP_CORE__N2pc,random_forest,30,-0.0622803846707908,-0.3993761446428551,0.390356557251833,
+ERP_CORE__N2pc,random_forest,50,-0.2050092236010213,-0.4754696988993496,0.2000696423804988,
+ERP_CORE__N2pc,random_forest,75,-0.1834733751966231,-0.4732345886478803,0.2208106999335966,
+ERP_CORE__N2pc,random_forest,100,-0.2091932418243443,-0.4629578526101207,0.1558012230356376,
+ERP_CORE__N2pc,random_forest,150,-0.199731898554292,-0.4560808174744831,0.167386537526302,
+ERP_CORE__N2pc,random_forest,200,-0.2354087579983859,-0.5204341581071257,0.1979220218005342,
+ERP_CORE__N2pc,random_forest,full,-0.2065470721495473,-0.3816932759093208,0.05811451206992,
+ERP_CORE__N400,random_forest,5,-0.055619409866622,-0.2321843031037006,0.1298197777138408,
+ERP_CORE__N400,random_forest,10,-0.0049327507789868,-0.1443393719156508,0.2305966066070471,
+ERP_CORE__N400,random_forest,20,0.0180362521759682,-0.1437193770595873,0.2552861744479968,
+ERP_CORE__N400,random_forest,30,-0.0216364266062987,-0.1740279892934939,0.1882015321902251,
+ERP_CORE__N400,random_forest,50,0.0315768619908763,-0.1248435392924029,0.2619311848306631,
+ERP_CORE__N400,random_forest,75,0.0845215910508274,-0.0959575353192195,0.3985821049915461,
+ERP_CORE__N400,random_forest,100,0.0783943957069151,-0.0864206095477617,0.3766926735579578,
+ERP_CORE__N400,random_forest,150,0.055091968131301,-0.0983314788545923,0.332259885676776,
+ERP_CORE__N400,random_forest,200,0.055091968131301,-0.0983314788545923,0.332259885676776,
+ERP_CORE__N400,random_forest,full,0.5269618033816774,-0.1464939788997028,0.7739848748065766,
+ERP_CORE__P3,random_forest,5,-0.143098246855503,-0.3471104911869278,0.0971294167255534,
+ERP_CORE__P3,random_forest,10,-0.2125636726459801,-0.4743468381870096,0.0554853289156165,
+ERP_CORE__P3,random_forest,20,-0.2247778094459436,-0.4221259256308172,0.0117912830109263,
+ERP_CORE__P3,random_forest,30,-0.1417527738596522,-0.3750292971794174,0.1506910285030888,
+ERP_CORE__P3,random_forest,50,-0.3151461164842194,-0.5231881650245773,-0.0475214456376261,
+ERP_CORE__P3,random_forest,75,-0.1544974919786954,-0.3771009136842203,0.1023118345067549,
+ERP_CORE__P3,random_forest,100,-0.1544974919786954,-0.3771009136842203,0.1023118345067549,
+ERP_CORE__P3,random_forest,150,-0.1544974919786954,-0.3771009136842203,0.1023118345067549,
+ERP_CORE__P3,random_forest,200,-0.1544974919786954,-0.3771009136842203,0.1023118345067549,
+ERP_CORE__P3,random_forest,full,-0.24750479270076592,-0.45918656158188653,-0.009637193597315264,

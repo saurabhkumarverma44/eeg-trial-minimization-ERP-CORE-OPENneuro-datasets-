@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Application storage
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/results/*
+!storage/results/.gitkeep
+storage/database.sqlite
+storage/database.sqlite-journal
+logs/*.log
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

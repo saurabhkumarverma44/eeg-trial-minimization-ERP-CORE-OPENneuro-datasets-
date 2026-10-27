@@ -1,0 +1,210 @@
+dataset_task,model,step,nfs,ci_low,ci_high,note
+DS002680__gonogo_11,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,5,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__LRP,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,10,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__LRP,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,20,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+DS006018__auditoryoddball,svm,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,30,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+DS006018__visualoddball,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,50,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+DS006018__visualoddball,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,svm,10,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,75,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+DS006018__visualoddball,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,100,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__LRP,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,150,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+DS006018__visualoddball,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,200,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+DS006018__auditoryoddball,svm,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,svm,30,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,svm,full,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N2pc,svm,5,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N2pc,svm,10,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N2pc,svm,20,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N2pc,svm,30,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N2pc,svm,50,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N2pc,svm,75,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N2pc,svm,100,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N2pc,svm,150,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N2pc,svm,200,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+DS006018__auditoryoddball,svm,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,svm,75,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__N2pc,svm,full,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+DS006018__auditoryoddball,svm,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,svm,150,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__N170,svm,full,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+DS006018__auditoryoddball,svm,200,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,svm,full,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__N400,svm,5,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N400,svm,10,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N400,svm,20,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N400,svm,30,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N400,svm,50,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N400,svm,75,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N400,svm,100,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N400,svm,150,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N400,svm,200,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__N400,svm,full,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,5,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,10,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,20,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,30,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,50,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,75,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,100,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,150,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,200,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__P3,svm,full,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__MMN,svm,5,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__MMN,svm,10,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__MMN,svm,20,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__MMN,svm,30,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__MMN,svm,50,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__MMN,svm,75,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__MMN,svm,100,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__MMN,svm,150,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"
+ERP_CORE__MMN,svm,200,,,,"N/A: feature/reference channel-count mismatch; features=30, reference=33"

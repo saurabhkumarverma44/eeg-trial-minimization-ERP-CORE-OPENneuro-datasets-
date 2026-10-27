@@ -1,0 +1,211 @@
+dataset_task,model,step,nfs,ci_low,ci_high,note
+DS002680__gonogo_1,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_1,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_12,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_11,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_10,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_13,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_4,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_2,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_3,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_5,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_8,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_6,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_9,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS002680__gonogo_7,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__LRP,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__visualoddball,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,5,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,10,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,20,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,30,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,50,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,75,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,100,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,150,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,200,,,,N/A: no NFS reference topography exists for this paradigm
+DS006018__auditoryoddball,xgboost,full,,,,N/A: no NFS reference topography exists for this paradigm
+ERP_CORE__ERN,xgboost,5,-0.0621051039264939,-0.2459845579578529,0.6895607039687734,
+ERP_CORE__ERN,xgboost,10,0.0785612286422896,-0.1668023051112343,0.3805886048224119,
+ERP_CORE__ERN,xgboost,20,-0.0554890234135826,-0.2688756011584241,0.2848297887871953,
+ERP_CORE__ERN,xgboost,30,0.1030566452866374,-0.1868019789017394,0.5467888557125458,
+ERP_CORE__ERN,xgboost,50,0.0207688230813633,-0.2118188130532657,0.4368062736108605,
+ERP_CORE__ERN,xgboost,75,-0.1076076420503782,-0.3112870145136245,0.2043889131103144,
+ERP_CORE__ERN,xgboost,100,-0.0551956680273247,-0.2645972828317415,0.1877931463715914,
+ERP_CORE__ERN,xgboost,150,-0.0320245482897654,-0.2250700130140446,0.3287108704676225,
+ERP_CORE__ERN,xgboost,200,0.0551704676504526,-0.1556980923336441,0.4805559004365219,
+ERP_CORE__ERN,xgboost,full,-0.2335676422001017,-0.5200879925985903,0.1235914152316056,
+ERP_CORE__MMN,xgboost,5,-0.092664750182816,-0.4217016517737007,0.299358150096822,
+ERP_CORE__MMN,xgboost,10,0.0335441119417198,-0.3545142851355201,0.2887645551718366,
+ERP_CORE__MMN,xgboost,20,-0.0778665776964974,-0.3810582491509722,0.2866309251583148,
+ERP_CORE__MMN,xgboost,30,0.0120257936480831,-0.2388868079535574,0.2039737843317643,
+ERP_CORE__MMN,xgboost,50,-0.1311137244527422,-0.5040576884090914,0.2061843473261941,
+ERP_CORE__MMN,xgboost,75,-0.0498688608576841,-0.4279815501173233,0.2998309944663408,
+ERP_CORE__MMN,xgboost,100,-0.0403197799826442,-0.360365725184078,0.1838334141680715,
+ERP_CORE__MMN,xgboost,150,-0.106979880541246,-0.3821764104669766,0.1105185921217903,
+ERP_CORE__MMN,xgboost,200,-0.0191533815397946,-0.3714915341348275,0.3020654176609647,
+ERP_CORE__MMN,xgboost,full,-0.2299627945954274,-0.5178445880461259,0.1615542325951089,
+ERP_CORE__N170,xgboost,full,0.0004912592204008,-0.313464837278168,0.2624908159560971,
+ERP_CORE__N2pc,xgboost,5,0.0042746583926543,-0.2206723133051433,0.3335117941760753,
+ERP_CORE__N2pc,xgboost,10,-0.2502260641535545,-0.4865765576065961,0.0410632255271398,
+ERP_CORE__N2pc,xgboost,20,-0.1942252249258991,-0.4494927063658026,0.1707240678782386,
+ERP_CORE__N2pc,xgboost,30,-0.1078300991875385,-0.2856741199419311,0.2422534901170774,
+ERP_CORE__N2pc,xgboost,50,0.0158681407054916,-0.3379147616214936,0.5595341707545963,
+ERP_CORE__N2pc,xgboost,75,0.1662332161762394,-0.2905392783008937,0.7500366203102792,
+ERP_CORE__N2pc,xgboost,100,0.1887874551778582,-0.2831749361505148,0.7258974664252843,
+ERP_CORE__N2pc,xgboost,150,0.0636756743371148,-0.3067818361788972,0.7202369579704705,
+ERP_CORE__N2pc,xgboost,200,0.0452209486134039,-0.291580775275149,0.7073829131697977,
+ERP_CORE__N2pc,xgboost,full,-0.1536291555918872,-0.3459756326864333,0.1204155038174858,
+ERP_CORE__N400,xgboost,5,-0.0914971304884724,-0.2577633149259443,0.1400040613786999,
+ERP_CORE__N400,xgboost,10,-0.0047797916950987,-0.1255184799207728,0.3487826949022808,
+ERP_CORE__N400,xgboost,20,-0.004024883659807,-0.1130097297453803,0.3569341862079031,
+ERP_CORE__N400,xgboost,30,-0.0277149467542775,-0.197221301599401,0.3800375572420156,
+ERP_CORE__N400,xgboost,50,-0.0283476973316612,-0.1526975512432953,0.2975350236147098,
+ERP_CORE__N400,xgboost,75,-0.0459726369894694,-0.1915556596672458,0.2127093873789954,
+ERP_CORE__N400,xgboost,100,0.0645136640879206,-0.0760396329303051,0.4141824248917752,
+ERP_CORE__N400,xgboost,150,-0.0275201349350818,-0.1662116884111621,0.2567971090932917,
+ERP_CORE__N400,xgboost,200,-0.0275201349350818,-0.1662116884111621,0.2567971090932917,
+ERP_CORE__N400,xgboost,full,0.4532792268959223,-0.0690812576251211,0.759490999100376,
+ERP_CORE__P3,xgboost,5,0.0213668772854451,-0.2004866833031436,0.4311417340085494,
+ERP_CORE__P3,xgboost,10,-0.1429963058141914,-0.2922504717063443,0.1348362749737779,
+ERP_CORE__P3,xgboost,20,0.0026843289366115,-0.3146528154922441,0.1860790584464777,
+ERP_CORE__P3,xgboost,30,0.0895731285642103,-0.3312233160754514,0.3907148899668833,
+ERP_CORE__P3,xgboost,50,0.2282915847206839,-0.1961635278719037,0.6654446382928388,
+ERP_CORE__P3,xgboost,75,0.2686178432682857,-0.2041135126008647,0.6134158141601753,
+ERP_CORE__P3,xgboost,100,0.2686178432682857,-0.2041135126008647,0.6134158141601753,
+ERP_CORE__P3,xgboost,150,0.2686178432682857,-0.2041135126008647,0.6134158141601753,
+ERP_CORE__P3,xgboost,200,0.2686178432682857,-0.2041135126008647,0.6134158141601753,
+ERP_CORE__P3,xgboost,full,-0.0775459708535013,-0.3303240029990198,0.19366717254364937,

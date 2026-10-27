@@ -1,0 +1,19 @@
+paradigm,model,min_trial_count,note
+P3,GAT,NOT CONVERGED,"No convergence point found; overall decreasing trend (Δ=-0.1162), never plateaus under 2% rule"
+P3,Random Forest,30,Converged (gain=-0.0127 over steps 30->75)
+P3,XGBoost,5,Converged (gain=-0.0187 over steps 5->20)
+MMN,GAT,NOT CONVERGED,"No convergence point found; overall decreasing trend (Δ=-0.2999), never plateaus under 2% rule"
+MMN,Random Forest,75,Converged (gain=0.0029 over steps 75->150)
+MMN,XGBoost,5,Converged (gain=0.0148 over steps 5->20)
+N2pc,GAT,20,Converged (gain=-0.0140 over steps 20->50)
+N2pc,Random Forest,50,Converged (gain=-0.0042 over steps 50->100)
+N2pc,XGBoost,NOT CONVERGED,"No convergence point found; overall decreasing trend (Δ=-0.1579), never plateaus under 2% rule"
+N400,GAT,NOT CONVERGED,"No convergence point found; overall increasing trend (Δ=0.0582), never plateaus under 2% rule"
+N400,Random Forest,10,Converged (gain=-0.0167 over steps 10->30)
+N400,XGBoost,30,Converged (gain=-0.0183 over steps 30->75)
+N170,GAT,NOT CONVERGED,"No convergence point found; overall increasing trend (Δ=0.1269), never plateaus under 2% rule"
+N170,Random Forest,NOT CONVERGED,Insufficient steps with valid NFS
+N170,XGBoost,NOT CONVERGED,Insufficient steps with valid NFS
+ERN,GAT,NOT CONVERGED,No convergence point found; overall flat/noisy (no clear trend)
+ERN,Random Forest,5,Converged (gain=0.0166 over steps 5->20)
+ERN,XGBoost,5,Converged (gain=0.0066 over steps 5->20)

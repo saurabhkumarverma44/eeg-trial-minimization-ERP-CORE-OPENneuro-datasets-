@@ -1,0 +1,9 @@
+                   Device  WBS bal_acc  GPU bal_acc  Δ (GPU-WBS) Winner
+Model                                                                  
+random_forest         CPU       0.5343       0.5347       0.0004    GPU
+xgboost        GPU (A100)       0.5355       0.5355      -0.0000    WBS
+svm                   CPU       0.5375       0.5370      -0.0005    WBS
+
+Overall WBS: 0.5358
+Overall GPU: 0.5357
+Difference : -0.0000

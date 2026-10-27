@@ -1,2 +1,66 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+**/.venv/
+venv/
+env/
+ENV/
+
+# Node / Frontend builds
+node_modules/
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# MNE Raw and Cleaned EEG Data Files (multi-GB data)
+*.fif
+*.fif.gz
+data/raw/
+data/derivatives/
+
+# Execution checkpoints, markers & logs
+markers/
+**/markers/
+*.done
+*.log
+*.swp
+*.tmp
+
+# Large result directories (>120 GB raw epoch arrays & caches)
+results_batch/
+results_dl_1/
+results_dl_2/
+results_stage4_gpu/
+backup_run1/
+**/backup_run1/
+errors/
+**/errors/
+
+# Root redundant duplicate folders (tracked cleanly under code/)
+/configs/
+/dl_models/
+/dl_prep/
+/preprocessing_batch/
+/stage3_feature_extraction/
+/stage4_classical_ml/
+
+# Web platform ephemeral storage & database
+eeg_trial_minimization_web/storage/database.sqlite
+eeg_trial_minimization_web/storage/database.sqlite-journal
+eeg_trial_minimization_web/logs/*.log
+eeg_trial_minimization_web/.env
+eeg_trial_minimization_web/.env.local
+eeg_trial_minimization_web/.pytest_cache/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+Desktop.ini

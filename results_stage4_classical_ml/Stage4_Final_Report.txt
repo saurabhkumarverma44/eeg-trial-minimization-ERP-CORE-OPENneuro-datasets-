@@ -1,0 +1,202 @@
+======================================================================
+  STAGE 4 CLASSICAL ML — FINAL REPORT
+  Project: ERP Trial Minimization
+  Generated: 2026-08-30 06:56:17
+======================================================================
+
+
+COMPUTE SETUP:
+  Hardware : NVIDIA A100-SXM4-80GB
+  random_forest       : CPU (sklearn, n_jobs=-1, all cores)
+  xgboost             : GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+  svm                 : CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+
+
+DATASETS  : 22 paradigms
+STEPS     : 5, 10, 20, 30, 50, 75, 100, 150, 200, full
+TOTAL     : 660 combinations per run (22 × 10 × 3 models)
+CV METHOD : Leave-One-Subject-Out (LOSO)
+SKIPPED   : SVM DS006018__auditoryoddball step=full (>15h timeout)
+            SVM ERP_CORE__MMN step=full (>8h timeout)
+
+
+
+======================================================================
+  WBS TRAINING RESULTS
+======================================================================
+
+── GLOBAL SUMMARY (mean across all paradigms & steps) ──────────────
+               bal_acc  accuracy  paradigms  total_rows                                              compute
+model                                                                                                       
+random_forest   0.5343    0.5977         22         211                  CPU (sklearn, n_jobs=-1, all cores)
+svm             0.5375    0.5949         22         209  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+xgboost         0.5355    0.5928         22         211             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+
+======================================================================
+  BEST BALANCED ACCURACY PER PARADIGM (avg across steps, best model)
+======================================================================
+model                      random_forest     svm  xgboost    BEST     BEST_MODEL                                               DEVICE
+paradigm                                                                                                                             
+DS002680__gonogo_7                0.5737  0.5852   0.5889  0.5889        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS002680__gonogo_13               0.5836  0.5797   0.5832  0.5836  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+DS002680__gonogo_10               0.5358  0.5504   0.5683  0.5683        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS006018__visualoddball           0.5176  0.5592   0.5388  0.5592            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS002680__gonogo_3                0.5454  0.5400   0.5580  0.5580        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS002680__gonogo_1                0.5541  0.5465   0.5254  0.5541  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+DS002680__gonogo_4                0.5444  0.5410   0.5518  0.5518        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+ERP_CORE__LRP                     0.5290  0.5477   0.5346  0.5477            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS002680__gonogo_11               0.5409  0.5410   0.5456  0.5456        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS002680__gonogo_5                0.5455  0.5441   0.5399  0.5455  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+DS002680__gonogo_2                0.5442  0.5430   0.5449  0.5449        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS002680__gonogo_9                0.5308  0.5413   0.5008  0.5413            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS002680__gonogo_6                0.5360  0.5402   0.5363  0.5402            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS002680__gonogo_8                0.5337  0.5153   0.5193  0.5337  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+DS002680__gonogo_12               0.5330  0.5279   0.5299  0.5330  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+ERP_CORE__N400                    0.5278  0.5219   0.5293  0.5293        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+ERP_CORE__ERN                     0.5163  0.5201   0.5172  0.5201            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+ERP_CORE__MMN                     0.5114  0.5186   0.5126  0.5186            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+ERP_CORE__P3                      0.5127  0.5152   0.5163  0.5163        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+ERP_CORE__N170                    0.4978  0.5113   0.5001  0.5113            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS006018__auditoryoddball         0.5049  0.5045   0.5038  0.5049  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+ERP_CORE__N2pc                    0.5030  0.5028   0.5040  0.5040        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+
+Paradigms with balanced accuracy ≥ 0.70: 0
+  None (best is ERP_CORE__LRP at ~0.668 — typical for classical ML on ERP)
+
+======================================================================
+  BEST SINGLE STEP per paradigm (highest balanced accuracy, any step)
+======================================================================
+                 paradigm         model step  balanced_accuracy_mean  accuracy_mean                                             compute
+            ERP_CORE__LRP           svm full                0.667775       0.672152 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+       DS002680__gonogo_7           svm   20                0.621407       0.620489 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+      DS002680__gonogo_13       xgboost   50                0.597005       0.563005            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+  DS006018__visualoddball           svm   50                0.596575       0.677240 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+       DS002680__gonogo_5           svm   20                0.591902       0.698462 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+           ERP_CORE__N400           svm full                0.587645       0.606773 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+      DS002680__gonogo_10       xgboost   10                0.585110       0.567844            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+       DS002680__gonogo_9           svm   30                0.573667       0.777895 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+       DS002680__gonogo_3       xgboost   50                0.568571       0.569799            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+       DS002680__gonogo_1 random_forest full                0.565346       0.550023                 CPU (sklearn, n_jobs=-1, all cores)
+       DS002680__gonogo_4       xgboost   20                0.563878       0.572859            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+       DS002680__gonogo_2       xgboost   30                0.559521       0.568840            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+      DS002680__gonogo_11       xgboost    5                0.557818       0.508482            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+       DS002680__gonogo_6       xgboost   10                0.554574       0.557534            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+            ERP_CORE__ERN           svm   30                0.549571       0.543089 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+      DS002680__gonogo_12       xgboost   50                0.541864       0.492887            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+       DS002680__gonogo_8 random_forest   50                0.541158       0.532296                 CPU (sklearn, n_jobs=-1, all cores)
+             ERP_CORE__P3           svm    5                0.538772       0.805948 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+            ERP_CORE__MMN           svm  200                0.524069       0.796412 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+           ERP_CORE__N170           svm full                0.511321       0.518940 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+           ERP_CORE__N2pc       xgboost  200                0.509336       0.505415            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS006018__auditoryoddball random_forest full                0.508577       0.747775                 CPU (sklearn, n_jobs=-1, all cores)
+
+── WBS — Model Win Count (best avg balanced acc per paradigm) ──
+  xgboost             : 9 paradigms won  [GPU (NVIDIA A100-SXM4-80GB, device=cuda)]
+  svm                 : 7 paradigms won  [CPU (sklearn GridSearchCV + CalibratedClassifierCV)]
+  random_forest       : 6 paradigms won  [CPU (sklearn, n_jobs=-1, all cores)]
+
+
+
+======================================================================
+  GPU TRAINING RESULTS
+======================================================================
+
+── GLOBAL SUMMARY (mean across all paradigms & steps) ──────────────
+               bal_acc  accuracy  paradigms  total_rows                                              compute
+model                                                                                                       
+random_forest   0.5347    0.5982         22         211                  CPU (sklearn, n_jobs=-1, all cores)
+svm             0.5370    0.5923         22         209  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+xgboost         0.5355    0.5926         22         211             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+
+======================================================================
+  BEST BALANCED ACCURACY PER PARADIGM (avg across steps, best model)
+======================================================================
+model                      random_forest     svm  xgboost    BEST     BEST_MODEL                                               DEVICE
+paradigm                                                                                                                             
+DS002680__gonogo_7                0.5737  0.5883   0.5889  0.5889        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS002680__gonogo_13               0.5836  0.5788   0.5832  0.5836  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+DS002680__gonogo_10               0.5358  0.5444   0.5683  0.5683        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS006018__visualoddball           0.5176  0.5588   0.5388  0.5588            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS002680__gonogo_3                0.5454  0.5414   0.5580  0.5580        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS002680__gonogo_1                0.5541  0.5449   0.5254  0.5541  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+DS002680__gonogo_5                0.5455  0.5520   0.5399  0.5520            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS002680__gonogo_4                0.5444  0.5401   0.5518  0.5518        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS002680__gonogo_11               0.5409  0.5433   0.5456  0.5456        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS002680__gonogo_2                0.5442  0.5417   0.5449  0.5449        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+ERP_CORE__LRP                     0.5290  0.5444   0.5346  0.5444            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS002680__gonogo_6                0.5360  0.5431   0.5363  0.5431            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS002680__gonogo_9                0.5308  0.5340   0.5008  0.5340            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS002680__gonogo_8                0.5337  0.5115   0.5193  0.5337  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+DS002680__gonogo_12               0.5330  0.5319   0.5299  0.5330  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+ERP_CORE__N400                    0.5325  0.5196   0.5299  0.5325  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+ERP_CORE__ERN                     0.5218  0.5204   0.5188  0.5218  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+ERP_CORE__N170                    0.4973  0.5203   0.4955  0.5203            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+ERP_CORE__P3                      0.5128  0.5126   0.5162  0.5162        xgboost             GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+ERP_CORE__MMN                     0.5115  0.5155   0.5124  0.5155            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+DS006018__auditoryoddball         0.5049  0.5047   0.5038  0.5049  random_forest                  CPU (sklearn, n_jobs=-1, all cores)
+ERP_CORE__N2pc                    0.5017  0.5031   0.5023  0.5031            svm  CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+
+Paradigms with balanced accuracy ≥ 0.70: 0
+  None (best is ERP_CORE__LRP at ~0.668 — typical for classical ML on ERP)
+
+======================================================================
+  BEST SINGLE STEP per paradigm (highest balanced accuracy, any step)
+======================================================================
+                 paradigm         model step  balanced_accuracy_mean  accuracy_mean                                             compute
+            ERP_CORE__LRP           svm full                0.651397       0.658833 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+       DS002680__gonogo_7           svm   20                0.617271       0.611925 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+           ERP_CORE__N400       xgboost full                0.597715       0.613733            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+      DS002680__gonogo_13       xgboost   50                0.597005       0.563005            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+  DS006018__visualoddball           svm   50                0.596295       0.676192 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+       DS002680__gonogo_5           svm   20                0.585251       0.678433 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+      DS002680__gonogo_10       xgboost   10                0.585110       0.567844            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+       DS002680__gonogo_6           svm full                0.569492       0.568628 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+       DS002680__gonogo_3       xgboost   50                0.568571       0.569799            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+       DS002680__gonogo_9 random_forest   20                0.565444       0.835592                 CPU (sklearn, n_jobs=-1, all cores)
+       DS002680__gonogo_1 random_forest full                0.565346       0.550023                 CPU (sklearn, n_jobs=-1, all cores)
+       DS002680__gonogo_4       xgboost   20                0.563878       0.572859            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+       DS002680__gonogo_2       xgboost   30                0.559521       0.568840            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+      DS002680__gonogo_11       xgboost    5                0.557818       0.508482            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+      DS002680__gonogo_12           svm   20                0.545413       0.493343 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+       DS002680__gonogo_8 random_forest   50                0.541158       0.532296                 CPU (sklearn, n_jobs=-1, all cores)
+            ERP_CORE__ERN           svm   75                0.533342       0.513196 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+            ERP_CORE__MMN       xgboost  150                0.523760       0.668071            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+             ERP_CORE__P3       xgboost   10                0.520829       0.805381            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+           ERP_CORE__N170           svm full                0.520301       0.508107 CPU (sklearn GridSearchCV + CalibratedClassifierCV)
+           ERP_CORE__N2pc       xgboost  100                0.508797       0.505118            GPU (NVIDIA A100-SXM4-80GB, device=cuda)
+DS006018__auditoryoddball random_forest full                0.508577       0.747775                 CPU (sklearn, n_jobs=-1, all cores)
+
+── GPU — Model Win Count (best avg balanced acc per paradigm) ──
+  svm                 : 8 paradigms won  [CPU (sklearn GridSearchCV + CalibratedClassifierCV)]
+  random_forest       : 7 paradigms won  [CPU (sklearn, n_jobs=-1, all cores)]
+  xgboost             : 7 paradigms won  [GPU (NVIDIA A100-SXM4-80GB, device=cuda)]
+
+======================================================================
+  WBS vs GPU RUN COMPARISON (mean balanced accuracy per model)
+======================================================================
+
+  random_forest [CPU (sklearn, n_jobs=-1, all cores)]
+    WBS run  : 0.5343
+    GPU run  : 0.5347
+    Δ        : +0.0004  (GPU better)
+
+  xgboost [GPU (NVIDIA A100-SXM4-80GB, device=cuda)]
+    WBS run  : 0.5355
+    GPU run  : 0.5355
+    Δ        : -0.0000  (WBS better)
+
+  svm [CPU (sklearn GridSearchCV + CalibratedClassifierCV)]
+    WBS run  : 0.5375
+    GPU run  : 0.5370
+    Δ        : -0.0005  (WBS better)
+
+
+======================================================================
+  HYPERPARAMETERS (WBS-specified)
+======================================================================
+  Random Forest : n_estimators=200, max_depth=10, class_weight=balanced
+                  max_features=sqrt, min_samples_split=5, min_samples_leaf=3
+  XGBoost       : lr=0.1, max_depth=6, subsample=0.8, colsample_bytree=0.8
+                  min_child_weight=3, reg_alpha=0.05, device=cuda (A100)
+  SVM           : RBF kernel, inner 2-fold CV, C=[0.1,1,10], gamma=[scale,0.01]
+                  CalibratedClassifierCV(cv=2), class_weight=balanced

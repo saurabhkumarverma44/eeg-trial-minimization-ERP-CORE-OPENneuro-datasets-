@@ -1,0 +1,2 @@
+dataset_task,model,step,n_folds,n_degenerate_folds,accuracy_mean,balanced_accuracy_mean,macro_f1_mean,auc_mean
+ERP_CORE__N170,svm,full,37,1,0.5189403137453109,0.5113207217226362,0.44104714180875304,
